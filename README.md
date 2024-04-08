@@ -23,8 +23,11 @@ I Completed this project as a part of my Data Analyst portfolio .
 # Learnings
 
 Data Cleaning in MySQL
+
 Parameterization in Power BI
+
 Data Integration between MySQL and Power BI
+
 DAX
 
 
